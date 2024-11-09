@@ -1,4 +1,7 @@
 ---
-titel: about
+layout: default
+title: About
 ---
-#Über mich
+# About page
+
+This page tells you a little bit about me.
