@@ -2,10 +2,11 @@
 layout: default
 title: Archiv
 ---
-<h2>Archiv</h2>
+
+## Archiv
 
 <ul>
-  {% for post in site._posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
