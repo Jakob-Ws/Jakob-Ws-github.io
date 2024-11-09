@@ -46,7 +46,24 @@
         font-size: 2em;
         margin: 0;
     }
+ /* Navigation im Header */
+    nav {
+        margin-top: 1rem;
+        display: flex;
+        justify-content: center;
+        gap: 2rem; /* Abstand zwischen Navigationselementen */
+    }
 
+    nav a {
+        color: white;
+        text-decoration: none;
+        font-size: 1em;
+        transition: color 0.3s ease;
+    }
+
+    nav a:hover {
+        color: var(--link-hover);
+    }
     /* Überschriften */
     h1, h2, h3, h4 {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
