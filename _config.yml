@@ -1,8 +1,6 @@
 ### your site title here
 
 title: Jakob
-  # Build settings
-  markdown: kramdown
 
 ### exclude the instructions / write-up in the README.md
 
