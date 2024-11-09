@@ -52,6 +52,7 @@
         display: flex;
         justify-content: center;
         gap: 2rem; /* Abstand zwischen Navigationselementen */
+      color: #59447F;
     }
 
     nav a {
