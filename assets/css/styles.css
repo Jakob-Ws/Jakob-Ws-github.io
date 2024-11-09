@@ -251,4 +251,4 @@
     .gallery img:hover {
         transform: scale(1.5);
     }
- .breascrums {colors: #59447F;}
+ #breadcrumbs {colors: #59447F;}
