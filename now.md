@@ -2,11 +2,11 @@
 layout: default
 title: now
 ---
-## Aktuelles
+# Aktuelles
 
-### 🏡 Life
+## 🏡 Life
 
-### 🎓 Universität
+## 🎓 Universität
 
 Aktuell läuft das Wintersemester 24/25 und ich belege folgende Module:
 
@@ -19,13 +19,13 @@ muss. Dieses Semester steht aber noch die Theoretische Physik (Mechanik
 und Elektrodynamik) Klausur an. Meine Bachelorarbeit muss ich leider
 verschieben.
 
-### 📚 Bücher
+## 📚 Bücher
 
 Aktuell lese ich Red Rising von Pierce Brown.
 
 Für mehr Bücher schau in meinem „[Bücherregal](buecherregal.md)" nach.
 
-### 📝 Artikel
+## 📝 Artikel
 
 Ich schreibe aktuell einen Artikel über die
 [Inzidenzgeometrie](https://de.wikipedia.org/wiki/Inzidenzgeometrie).
@@ -33,13 +33,13 @@ Sie ist die allgemeinste Form einer Geometrie und bildet die Grundlage
 für alle möglichen Geometrien. Trotz ihrer Allgemeinheit lassen sich aus
 ihr einige wichtige und interessante Folgerungen ableiten. 
 
-### 💡 Empfehlungen
+## 💡 Empfehlungen
 
 Es folgen Empfehlungen zu verschiedenen Dingen wie Filmen, Serien, Musik
 oder auch anderen Webseiten, die ich empfehlenswert finde. Diese Liste
 ist nicht sortiert, sie stellt lediglich eine Sammlung dar.
 
-#### 🌐 Persönliche Webseiten
+### 🌐 Persönliche Webseiten
 
 -   [James\' Coffee Blog](https://jamesg.blog)
 -   [Derek Sivers](https://sive.rs)
@@ -54,4 +54,4 @@ ist nicht sortiert, sie stellt lediglich eine Sammlung dar.
 
 ------------------------------------------------------------------------
 
-Zuletzt aktualisiert 08.Nov.24
+Zuletzt aktualisiert 10.Nov.24
