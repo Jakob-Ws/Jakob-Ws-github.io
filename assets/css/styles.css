@@ -251,4 +251,12 @@
     .gallery img:hover {
         transform: scale(1.5);
     }
- #breadcrumbs {colors: #59447F;}
+
+#breadcrumbs a {
+    color: var(--accent-2); /* Gleiche Farbe für Links im Breadcrumb */
+    text-decoration: none;
+}
+
+#breadcrumbs a:hover {
+    color: var(--link-hover); /* Hover-Effekt wie für andere Links */
+}
