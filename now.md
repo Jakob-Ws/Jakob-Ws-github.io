@@ -23,12 +23,12 @@ verschieben.
 
 Aktuell lese ich Red Rising von Pierce Brown.
 
-Für mehr Bücher schau in meinem „[Bücherregal](buecherregal.html)" nach.
+Für mehr Bücher schau in meinem „[Bücherregal](buecherregal.md)" nach.
 
 ### 📝 Artikel
 
 Ich schreibe aktuell einen Artikel über die
-[Inzidenzgeometrie](https://de.wikipedia.org/wiki/Inzidenzgeometrie){target="_blank"}.
+[Inzidenzgeometrie](https://de.wikipedia.org/wiki/Inzidenzgeometrie).
 Sie ist die allgemeinste Form einer Geometrie und bildet die Grundlage
 für alle möglichen Geometrien. Trotz ihrer Allgemeinheit lassen sich aus
 ihr einige wichtige und interessante Folgerungen ableiten. 
