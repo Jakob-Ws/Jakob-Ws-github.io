@@ -256,7 +256,9 @@
     color: var(--accent-2); /* Gleiche Farbe für Links im Breadcrumb */
     text-decoration: none;
 }
-
+#breadcrums div{
+	color: var(--accent-2);
+}
 #breadcrumbs a:hover {
     color: var(--link-hover); /* Hover-Effekt wie für andere Links */
 }
