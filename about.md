@@ -2,7 +2,7 @@
 layout: default
 title: about
 ---
-## Über mich
+# Über mich
 
 Ich bin Lehramtsstudent an der RPTU - Landau für die Fächer Mathematik &
 Physik.
