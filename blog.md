@@ -3,7 +3,7 @@ layout: default
 title: Archiv
 ---
 
-## Archiv
+# Archiv
 
 <ul>
   {% for post in site.posts %}
