@@ -5,7 +5,7 @@
         --text-secondary: #636e72;    /* Mittleres Grau */
         --accent-1: #59447F;          /* Anpassung des Akzents */
         --accent-2: #59447F;          /* Dunkles Blaugrau angepasst */
-        --link: #59447F;              /* Anpassung der Linkfarbe */
+        --link: #black;              /* Anpassung der Linkfarbe */
         --link-hover: #8265A7;        /* Hellerer Farbton für Hover */
         --subtle-border: #e9ecef;     /* Sehr helles Grau für Grenzen */
         --code-bg: #f1f3f5;           /* Helles Grau für Code-Hintergrund */
