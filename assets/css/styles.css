@@ -5,7 +5,7 @@
         --text-secondary: #636e72;    /* Mittleres Grau */
         --accent-1: #59447F;          /* Anpassung des Akzents */
         --accent-2: #59447F;          /* Dunkles Blaugrau angepasst */
-        --link: #black;              /* Anpassung der Linkfarbe */
+        --link: #59447F;              /* Anpassung der Linkfarbe */
         --link-hover: #8265A7;        /* Hellerer Farbton für Hover */
         --subtle-border: #e9ecef;     /* Sehr helles Grau für Grenzen */
         --code-bg: #f1f3f5;           /* Helles Grau für Code-Hintergrund */
@@ -252,13 +252,3 @@
         transform: scale(1.5);
     }
 
-#breadcrumbs a {
-    color: var(--accent-2); /* Gleiche Farbe für Links im Breadcrumb */
-    text-decoration: none;
-}
-#breadcrums div{
-	color: var(--accent-2);
-}
-#breadcrumbs a:hover {
-    color: var(--link-hover); /* Hover-Effekt wie für andere Links */
-}
