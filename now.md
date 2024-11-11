@@ -1,6 +1,7 @@
 ---
 layout: default
 title: now
+permalink: /now/
 ---
 # Aktuelles
 
