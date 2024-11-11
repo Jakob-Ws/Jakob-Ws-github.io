@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Archiv
+permalink: /archiv/
 ---
 
 # Archiv
