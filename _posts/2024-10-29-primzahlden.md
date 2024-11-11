@@ -46,7 +46,3 @@ Dies stellt einen Widerspruch dar, da keine Primzahl \\(p\\) (mit \\(p
 \\neq 1\\)) die Zahl \\(1\\) teilt. Somit ist die Annahme, dass die
 Menge der Primzahlen \\(\\mathbb{P}\\) endlich ist, widerlegt. Es folgt,
 dass die Menge der Primzahlen unendlich ist.
-
-------------------------------------------------------------------------
-
-Veröffentlicht: 29.Okt.24
