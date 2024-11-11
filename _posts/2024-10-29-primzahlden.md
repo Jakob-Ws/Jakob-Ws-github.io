@@ -1,7 +1,7 @@
 ---
 title: Die Unendlichkeit der Primzahlen - Der Beweis nach Euclid
 layout: post
-date:2024-10-29
+date: 2024-10-29
 author: jakob
 permalink: /primzahlen/
 ---
