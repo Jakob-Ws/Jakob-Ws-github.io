@@ -3,7 +3,7 @@ title: Die Unendlichkeit der Primzahlen - Der Beweis nach Euklid
 layout: post
 date: 2024-10-29
 author: Jakob
-permalink:/primzahlen/
+permalink: /primzahlen/
 ---
 Es sei angenommen, dass die Menge der Primzahlen \\(\\mathbb{P}\\)
 endlich ist. Das bedeutet, dass \\(\\mathbb{P} = \\{p_1, p_2, \\dots,
