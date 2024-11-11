@@ -13,7 +13,7 @@ aller \\(n\\) Primzahlen gebildet und zu diesem Produkt \\(1\\) addiert
 wird:
 
 \\\[q = p_1 \\cdot p_2 \\cdot \\dots \\cdot p_n + 1 = \\left(
-\\prod\_{i=1}\^n p_i \\right) + 1\\\]
+\\prod\_{i=1}^n p_i \\right) + 1\\\]
 
 Für \\(q\\) ergeben sich zwei mögliche Fälle:
 
