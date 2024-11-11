@@ -1,5 +1,5 @@
 ---
-title:Die Unendlichkeit der Primzahlen - Der Beweis nach Euclid
+title: Die Unendlichkeit der Primzahlen - Der Beweis nach Euclid
 layout: post
 date:2024-10-29
 author: jakob
