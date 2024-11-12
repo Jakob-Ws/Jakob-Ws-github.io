@@ -10,8 +10,8 @@ permalink: /bücherregal/
   {% assign sorted_books = site.books | sort: 'rating' | reverse %}
   {% for book in sorted_books %}
     <li>
-      <a href="{{ book.url }}">{{ book.title }} - {{ book.author }}</a> - 
-      <strong>{{ book.rating }}/10</strong>, veröffentlicht am: {{ book.date | date: "%d. %b %Y" }}
+      <a href="{{ book.url }}">{{ book.title }} {{ book.author }}</a> ( 
+      <strong>{{ book.rating }}/10</strong>, gelesen am: {{ book.date | date: "%d. %b %Y" }})
     </li>
   {% endfor %}
 </ul>
