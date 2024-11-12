@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<div id="buch"
-    <h1 {{ book.title }} - {{ book.author }}</h1>
+<div id="buch">
+    <h1>{{ page.title }} - {{ page.author }}</h1>
     <p><strong>Bewertung:</strong> {{ page.rating }}/10</p>
-    <p> {{ page.date | date: "%d. %m %Y" }}</p>
+    <p><strong>Gelesen am:</strong> {{ page.date | date: "%d. %m %Y" }}</p>
     
     <div class="review-content">
         {{ content }}
