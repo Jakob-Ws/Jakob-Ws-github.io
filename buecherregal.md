@@ -11,7 +11,7 @@ permalink: /bücherregal/
   {% for book in sorted_books %}
     <li>
       <a href="{{ book.url }}">{{ book.title }} - {{ book.author }}</a> ( 
-      <strong>{{ book.rating }}/10</strong>; gelesen: {{ book.date | date: "%d. %b %Y" }})
+      <strong>{{ book.rating }}/10</strong>; gelesen: {{ book.date | date: "%d. %m %Y" }})
     </li>
   {% endfor %}
 </ul>
