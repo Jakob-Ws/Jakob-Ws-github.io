@@ -24,7 +24,7 @@ verschieben.
 
 Aktuell lese ich Red Rising von Pierce Brown.
 
-Für mehr Bücher schau in meinem „[Bücherregal](buecherregal)" nach.
+Für mehr Bücher schau in meinem „[Bücherregal](../buecherregal)" nach.
 
 ## 📝 Artikel
 
