@@ -4,6 +4,7 @@ title: Red Rising
 author: Pierce Brown
 date: 2013-10-10
 rating: 10
+permalink: /redrising/
 ---
 Die Menschheit hat sich im ganzen Sonnensystem ausgebreitet und wird von der Weltengesellschaft regiert. Es handelt sich um keine Demokratie den Menschen werden Farben zugeordnet anhand dieser wird deren Stand in der Gesellschaft festgelegt: 
 - Rote: Sklaven
