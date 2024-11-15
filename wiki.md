@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wiki
+title: Wiki
 permalink: /wiki/
 ---
 # Mein kleines Wiki
