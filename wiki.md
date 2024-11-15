@@ -1,3 +1,4 @@
+---
 layout: default
 title: wiki
 permalink: /wiki/
